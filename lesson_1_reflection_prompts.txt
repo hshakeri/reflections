@@ -50,3 +50,6 @@ with git diff idNew idOld we can see the changes during these two commit id's.
 
 How might using version control make you more confident to make changes that could break something?
 I can easily go back to my previous commit.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Coding!
