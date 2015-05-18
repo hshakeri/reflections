@@ -47,3 +47,6 @@ I guess, its harder for google docs to control the version for the whole repo.
 How can you use the commands git log and git diff to view the history of files?
 git log will show all of the changes with corresponding id's
 with git diff idNew idOld we can see the changes during these two commit id's.
+
+How might using version control make you more confident to make changes that could break something?
+I can easily go back to my previous commit.
